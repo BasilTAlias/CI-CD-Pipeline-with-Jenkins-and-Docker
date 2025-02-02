@@ -18,6 +18,7 @@ This project demonstrates a CI/CD pipeline using Jenkins and Docker. The pipelin
 
 ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/1.png)
 
+
 $~$
 ---
 
@@ -28,6 +29,7 @@ $~$
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/2.png)
 
+
 $~$
 ---
 
@@ -36,19 +38,23 @@ $~$
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/3.png)
 
-$~$\n---
+$~$
+---
 
 ### 3. Docker Installation Completed
    - Docker was successfully installed and configured on the second EC2 instance.
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/4.png)
 
-$~$\n---
+
+$~$
+---
 
 ### 4. Website Template Downloaded
    - A website template was downloaded from [free-css.com](https://www.free-css.com/).
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/5.png)
+
 
 $~$
 ---
@@ -58,6 +64,7 @@ $~$
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/6.png)
 
+
 $~$
 ---
 
@@ -65,6 +72,7 @@ $~$
    - The extracted files were uploaded to a GitHub repository for version control.
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/7.png)
+
 
 $~$
 ---
@@ -74,6 +82,7 @@ $~$
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/8.png)
 
+$~$
 ---
 
 ### 8. Freestyle Project Created in Jenkins
@@ -81,6 +90,7 @@ $~$
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/9.png)
 
+$~$
 ---
 
 ### 9. GitHub Repository URL Configured
@@ -88,6 +98,7 @@ $~$
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/10.png)
 
+$~$
 ---
 
 ### 10. Branch Selected in Repository
@@ -95,6 +106,7 @@ $~$
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/11.png)
 
+$~$
 ---
 
 ### 11. GitHub Hook Trigger Enabled
@@ -102,6 +114,7 @@ $~$
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/12.png)
 
+$~$
 ---
 
 ### 12. Webhooks Configured in GitHub
@@ -109,6 +122,7 @@ $~$
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/13.png)
 
+$~$
 ---
 
 ### 13. Passwordless SSH Login Configured
@@ -116,6 +130,7 @@ $~$
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/14.png)
 
+$~$
 ---
 
 ### 14. Successful Connection to Docker Server
@@ -123,6 +138,7 @@ $~$
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/15.png)
 
+$~$
 ---
 
 ### 15. Website Files Copied to Docker Server
@@ -132,6 +148,7 @@ $~$
    
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/17.png)
 
+$~$
 ---
 
 ### 16. Dockerfile Created
@@ -139,6 +156,7 @@ $~$
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/18.png)
 
+$~$
 ---
 
 ### 17. Remote Shell Configured for Docker Build
@@ -146,6 +164,7 @@ $~$
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/19.png)
 
+$~$
 ---
 
 ### 18. Website Successfully Accessed
@@ -153,6 +172,7 @@ $~$
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/20.png)
 
+$~$
 ---
 
 ### 19. Code Modified Using Visual Studio Code
@@ -160,6 +180,7 @@ $~$
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/21.png)
 
+$~$
 ---
 
 ### 20. Code Committed and Pushed to GitHub
@@ -167,6 +188,7 @@ $~$
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/22.png)
 
+$~$
 ---
 
 ### 21. Automatic Build Triggered by Jenkins
@@ -174,6 +196,7 @@ $~$
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/23.png)
 
+$~$
 ---
 
 ### 22. Jenkins Console Output
@@ -181,6 +204,7 @@ $~$
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/24.png)
 
+$~$
 ---
 
 ### 23. Verified Updated Website
@@ -188,11 +212,13 @@ $~$
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/25.png)
 
+$~$
 ---
 
 ## Conclusion
 
 This CI/CD pipeline automates the deployment of a website using Jenkins and Docker. It demonstrates how to set up a continuous integration and deployment process that can be easily adapted for other projects.
 
+$~$
 ---
 
