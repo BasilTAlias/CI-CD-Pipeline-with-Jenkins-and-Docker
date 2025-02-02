@@ -19,7 +19,6 @@ This project demonstrates a CI/CD pipeline using Jenkins and Docker. The pipelin
 ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/1.png)
 
 $~$
-
 ---
 
 ## Steps to Set Up the CI/CD Pipeline
@@ -29,6 +28,7 @@ $~$
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/2.png)
 
+$~$
 ---
 
 ### 2. Jenkins Installation Completed
@@ -36,20 +36,21 @@ $~$
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/3.png)
 
----
+$~$\n---
 
 ### 3. Docker Installation Completed
    - Docker was successfully installed and configured on the second EC2 instance.
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/4.png)
 
----
+$~$\n---
 
 ### 4. Website Template Downloaded
    - A website template was downloaded from [free-css.com](https://www.free-css.com/).
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/5.png)
 
+$~$
 ---
 
 ### 5. Files Extracted
@@ -57,6 +58,7 @@ $~$
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/6.png)
 
+$~$
 ---
 
 ### 6. Files Uploaded to GitHub Repository
@@ -64,6 +66,7 @@ $~$
 
    ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/7.png)
 
+$~$
 ---
 
 ### 7. Jenkins Configuration and Login
