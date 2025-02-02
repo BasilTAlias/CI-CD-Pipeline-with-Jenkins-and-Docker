@@ -18,6 +18,7 @@ This project demonstrates a CI/CD pipeline using Jenkins and Docker. The pipelin
 
 ![Alt text of the image](https://github.com/BasilTAlias/jenkins-docker/blob/main/images/readme-images/1.png)
 
+$~$
 
 ---
 
