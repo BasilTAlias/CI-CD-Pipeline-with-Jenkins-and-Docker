@@ -222,3 +222,14 @@ This CI/CD pipeline automates the deployment of a website using Jenkins and Dock
 $~$
 ---
 
+
+📝 Medium Article
+
+I also wrote a Medium article that walks through this project step-by-step:
+
+Title: CI/CD with Jenkins & Docker: Automating Web Deployments from GitHub to Production
+
+Link: https://medium.com/@basiltaliaz/ci-cd-with-jenkins-docker-automating-web-deployments-from-github-to-production-7a3fcc5039c6
+
+---
+
